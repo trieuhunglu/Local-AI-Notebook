@@ -1,0 +1,1 @@
+This is a first test app build for the genma 4 12b local AI
