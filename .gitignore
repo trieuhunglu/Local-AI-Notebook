@@ -1,0 +1,7 @@
+notes_db.json
+__pycache__/
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+notebook_backup.py
